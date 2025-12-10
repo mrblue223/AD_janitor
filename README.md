@@ -75,6 +75,10 @@ After successfully generating the `ad_findings.csv` file, run the visualization 
 
 3.  **Visualization and Severity:**
 
+![Alt Text](images/dash1.png)
+
+![Alt Text](images/dash2.png)
+
 The dashboard provides instant analysis, showing **what** objects are affected and **what its severity is** by presenting key charts and filterable data:
 * **Risk Level Breakdown:** Charts visualize the total number of findings categorized by **CRITICAL, HIGH, MEDIUM,** and **LOW** risk.
 * **Detailed Vulnerability Findings:** An interactive table allows you to filter the data by `Risk_Level` and `Vulnerability_Type` (e.g., **AS-REP Roasting** or **Unconstrained Delegation**), giving you a prioritized list of affected `User_Name` or `Computer_Name` entities and their detailed `Description`.
