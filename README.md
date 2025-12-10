@@ -56,6 +56,10 @@ The script will create an output folder (default: `ad_enum_results`) containing 
 
     python3 AD_janitor.py -s ldaps://192.168.1.10 -u 'CORP\auditor' -p 'P@ssw0rd1' -d 'DC=corp,DC=net' -o ad_report_2025
 
+### Part2: Advanced scans for the more experienced can be found below
+
+[Advanced_usage](usage_exemple.md)
+
 ### Part 2: Run the Security Dashboard (Visualization)
 
 After successfully generating the `ad_findings.csv` file, run the visualization dashboard using Streamlit.
