@@ -88,4 +88,4 @@ The dashboard provides instant analysis, showing **what** objects are affected a
 * **Detailed Vulnerability Findings:** An interactive table allows you to filter the data by `Risk_Level` and `Vulnerability_Type` (e.g., **AS-REP Roasting** or **Unconstrained Delegation**), giving you a prioritized list of affected `User_Name` or `Computer_Name` entities and their detailed `Description`.
 
 
-Gemini peut se tromper, alors vérifiez ses réponses.
+
