@@ -1,4 +1,4 @@
-# 🛡️ Enhanced AD Janitor & Security Dashboard 
+# 🛡️ Enhanced AD Janitor & Security Dashboard (prototype)
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-Security-red?logo=microsoft-active-directory&logoColor=white)
